@@ -1,7 +1,4 @@
-# millionaire-multi
-This is the original WWTBAM Multi Format Gameplay
-
-Alpha v1.0 Version of WWTBAM in C++
+#Alpha v1.0 Version of WWTBAM C++ Edition
 
 This game is developed by a beginner who really wants to develop his own game.
 
